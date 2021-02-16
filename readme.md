@@ -49,6 +49,8 @@ var m = new Mnemonic("korean")
 # Tests
 
 Tests run in the browser.
+[Download zip](https://github.com/username1565/jsbip39/archive/master.zip), unzip it, and open `test/index.html`, in new tab of browser.
+Or see tests, online, here https://username1565.github.io/jsbip39/test/
 
 ```
 $ cd /path/to/repo/
